@@ -1,0 +1,2 @@
+[data-block-release="calendar_booking@0.1.0"] [data-calendar_booking-node-card] { width: 100%; min-width: 0; }
+[data-block-release="calendar_booking@0.1.0"] [data-calendar_booking-node-card] h3 { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "kind": "calendar_booking",
+  "block_version": "0.1.0",
+  "maintained_by": "HackInvent",
+  "source": {
+    "algorithm": "block-source-v1",
+    "sha256": "af2eb41f4ab68da04ea058578379879e25b3a07a5a7d6608ef3401d661439740"
+  },
+  "bloxsmith_compatibility": [
+    "1.0.9"
+  ],
+  "tested_with_bloxsmith": "1.0.9",
+  "validations": [
+    {
+      "bloxsmith_version": "1.0.9",
+      "framework_commit": "f1a87f6369d2acfb8be41d23ea849384cd461c86",
+      "framework_source_sha256": "66e36a13fd9a23a0a0576ec81552d6e479671db6db9b8692cc7486c5aac4f3b8",
+      "tested_at": "2026-10-05T01:28:45.314528+00:00",
+      "status": "passed",
+      "installation_mode": "bundled",
+      "suite_paths": [
+        "tests/F5.01_calendar_booking.py",
+        "tests/F5.02_calendar_booking_runtime.py",
+        "tests/F8.01_calendar_booking_ui.py"
+      ],
+      "suite_count": 3,
+      "report_sha256": "57248d6080dc31033b9612d49cb3ce9f63b2448d6df4a17d6132b91d86b262fb"
+    }
+  ]
+}
